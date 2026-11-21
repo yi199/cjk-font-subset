@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.woff2
+*.ttf
+*.otf
+.DS_Store
